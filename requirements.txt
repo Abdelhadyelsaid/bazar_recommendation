@@ -4,3 +4,5 @@ firebase-admin
 scikit-learn
 pandas
 pydantic
+python-dotenv
+
